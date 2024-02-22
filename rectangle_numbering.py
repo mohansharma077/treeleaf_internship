@@ -33,9 +33,7 @@ for rect, (nxt, prv, first_child, parent) in zip(contours, hist):
         # Get the line
         line = contours[line_index]
 
-        # You could fit a line and calculate the intersection between
-        # the line and the line contour but I'm too lazy for that now.
-        # So we are using minAreaRect instead
+
         _, (width, height), _ = cv2.minAreaRect(line)
 
         line_length = max(width, height)
