@@ -50,9 +50,13 @@ python rectangle_alignment.py
 
 ## Sample Output
 ![Output_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/b0156cb6-0511-43a8-9776-9fd0adf40f91)
+<br/>
 ![ 1 Rectified Rectangles_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/1927b128-d03d-4d79-8f2f-4d64c2884436)
+<br/>
 ![2 Rectified Rectangles_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/4426a8e9-b3f1-45d8-82ac-913a406a65b5)
+<br/>
 ![3 Rectified Rectangles_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/23063746-95d5-4253-9d6f-02af92031436)
+<br/>
 ![4 Rectified Rectangles_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/811d9795-638a-4ad1-9ea7-adae84331790)
 
 
