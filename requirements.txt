@@ -1,3 +1,4 @@
 opencv-python
 pillow
 IPython
+numpy
