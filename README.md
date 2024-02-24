@@ -12,7 +12,9 @@ This project aims to detect rectangles in an image, rectify them to align them h
 1. Clone the GitHub repository:
 
 ```
-git@github.com:mohansharma077/treeleaf_internship.git```
+git@github.com:mohansharma077/treeleaf_internship.git
+
+```
 
 2. Navigate to the project directory:
 
