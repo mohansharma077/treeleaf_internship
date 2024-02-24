@@ -45,18 +45,14 @@ python rectangle_alignment.py
 - `Screenshot from 2024-02-22 21-22-06.png`: Sample input image used in the project.
 - `README.md`: This README file providing an overview of the project.
 
+
 ## Sample Output
+![Output_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/b0156cb6-0511-43a8-9776-9fd0adf40f91)
+![ 1 Rectified Rectangles_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/1927b128-d03d-4d79-8f2f-4d64c2884436)
+![2 Rectified Rectangles_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/4426a8e9-b3f1-45d8-82ac-913a406a65b5)
+![3 Rectified Rectangles_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/23063746-95d5-4253-9d6f-02af92031436)
+![4 Rectified Rectangles_screenshot_24 02 2024](https://github.com/mohansharma077/treeleaf_internship/assets/104629829/811d9795-638a-4ad1-9ea7-adae84331790)
 
-![Sample Output](sample_output.png)
 
-![Output_screenshot_24.02.2024.png](Output_screenshot_24.02.2024.png)
-![Output_screenshot_24.02.2024.png](Output_screenshot_24.02.2024.png)
-![ 1 Rectified Rectangles_screenshot_24.02.2024.png](%201%20Rectified%20Rectangles_screenshot_24.02.2024.png)
----![Output_screenshot_24.02.2024.png](Output_screenshot_24.02.2024.png)
-![ 1 Rectified Rectangles_screenshot_24.02.2024.png](%201%20Rectified%20Rectangles_screenshot_24.02.2024.png)
-![Output_screenshot_24.02.2024.png](Output_screenshot_24.02.2024.png)
-![ 1 Rectified Rectangles_screenshot_24.02.2024.png](%201%20Rectified%20Rectangles_screenshot_24.02.2024.png)
-![Output_screenshot_24.02.2024.png](Output_screenshot_24.02.2024.png)
-![ 1 Rectified Rectangles_screenshot_24.02.2024.png](%201%20Rectified%20Rectangles_screenshot_24.02.2024.png)
-
-You can replace `"your-username"` with your actual GitHub username in the clone command. This README file provides clear instructions on how to install the project from a GitHub repository and how to use it.
+This README file provides clear instructions on how to install the project 
+from a GitHub repository and how to use it.
